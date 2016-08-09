@@ -27,6 +27,7 @@ b.show()
 # create blank alpha image of same size as original
 # movex: copy create large rectangle exluding some number of pixels on either side in x
 #        paste the image in the new image thereby translating it in x
+# http://pillow.readthedocs.io/en/3.0.x/handbook/tutorial.html#rolling-an-image
 
 
 # Ops
